@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "517912970116",
+    "firebase_url": "https://atresseasonal.firebaseio.com",
+    "project_id": "atresseasonal",
+    "storage_bucket": "atresseasonal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517912970116:android:3c7d6470405dd51d",
+        "android_client_info": {
+          "package_name": "com.dev.atreseasonals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517912970116-oevadvt4jlojkpbleolcidbiab9f4cec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3flaPJxT9uAubPHSOsNOKEeNFFcNDpc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
